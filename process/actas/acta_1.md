@@ -24,5 +24,5 @@ sobre el manejo del repositorio convenciones (idioma a utilizar donde ingles nom
 ## Tareas
 - [] Tarea 1  persona encargada
 - [x] Tarea 2
-
+- [x] Tarea 3
 
