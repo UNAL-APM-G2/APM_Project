@@ -13,16 +13,22 @@ date: 2021-10-8
   - [papas lay](https://youtu.be/L6IYy95ODDU)
   - [limones](https://youtu.be/6BymoSoA4JE)
 - definir franjas horario de trabajo semanal
-
+- Viernes a las 4
+  
 ## Discusión 
 
 utilización de la herramienta de issues dentro de github para la asignación y verificación de cumplimento de tareas 
 
 sobre el manejo del repositorio convenciones (idioma a utilizar donde ingles nombre de archivos y carpetas español para el contenido)
 
+- lista de 5 productos a los que sea factible aplicar el proceso de manufactura, los profesores definen dos de ellos que constituirán el objeto del proyecto del equipo. Considerar diferencias no triviales en aspectos como número de elementos por empaque, tamaño, forma. Para el manejo y empaque de los dos productos deben utilizar una única línea de proceso.
+- identificar todas las etapas relevantes desde la llegada del
+producto a la planta hasta su salida empacado. Selección de 3 etapas clave, que sean automatizables, una de ellas con
+robotización.
 
 ## Tareas
-- [] Tarea 1  persona encargada
-- [x] Tarea 2
+- [] Tarea 1: hacer push al repositorio  
+- [] Tarea 2: cada participante debe escoger un producto y presentar un diagrama con todas las etapas debe proponer cuales 3 pueden ser automatizadas y aquella que sea robotizada.
+
 
 
