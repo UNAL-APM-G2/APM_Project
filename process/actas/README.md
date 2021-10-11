@@ -1,4 +1,6 @@
-
+# Tabla de contenido
+- [Acta 1](#acta-1--fecha-2021-10-8)
+- [Acta 2](#acta-2--fecha-2021-10-10)
 
 # Acta 1  fecha: 2021-10-8
 
@@ -38,7 +40,7 @@ robotización.
 - [Manzanas2](https://www.youtube.com/watch?v=1Ayb-KERhyw)
 - [Kiwi](https://www.youtube.com/watch?v=mQnqKxNEZGM&t=27s)
   
-###Verduras:
+### Verduras:
 
 ## Discusión 
 preguntar sobre: _"Considerar diferencias no triviales en aspectos como número de elementos por empaque, tamaño, forma. Para el manejo y empaque de los dos productos deben utilizar una única línea de proceso"_
