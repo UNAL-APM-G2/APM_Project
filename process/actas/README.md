@@ -42,5 +42,7 @@ robotización.
   
 ### Verduras:
 
+### Otros:
+- [Rosas](https://www.youtube.com/watch?v=KY53fVzdVpw)
 ## Discusión 
 preguntar sobre: _"Considerar diferencias no triviales en aspectos como número de elementos por empaque, tamaño, forma. Para el manejo y empaque de los dos productos deben utilizar una única línea de proceso"_
