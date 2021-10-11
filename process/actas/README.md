@@ -1,9 +1,6 @@
----
-title: "Titulo de reunión"
-date: 2021-10-8
----
 
 
+# Acta 1  fecha: 2021-10-8
 
 ## Objetivos
 - discutir sobre creación de  proyecto de github
@@ -27,8 +24,14 @@ producto a la planta hasta su salida empacado. Selección de 3 etapas clave, que
 robotización.
 
 ## Tareas
-- [] Tarea 1: hacer push al repositorio  
-- [] Tarea 2: cada participante debe escoger un producto y presentar un diagrama con todas las etapas debe proponer cuales 3 pueden ser automatizadas y aquella que sea robotizada.
+- [x] Tarea 1: hacer push al repositorio  
+- [x] Tarea 2: cada participante debe escoger un producto y presentar un diagrama con todas las etapas debe proponer cuales 3 pueden ser automatizadas y aquella que sea robotizada.
 
 
 
+
+# Acta 2  fecha: 2021-10-10
+
+  
+## Discusión 
+preguntar sobre: _"Considerar diferencias no triviales en aspectos como número de elementos por empaque, tamaño, forma. Para el manejo y empaque de los dos productos deben utilizar una única línea de proceso"_
