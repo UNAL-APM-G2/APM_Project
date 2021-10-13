@@ -41,6 +41,8 @@ robotización.
 - [Kiwi](https://www.youtube.com/watch?v=mQnqKxNEZGM&t=27s)
 - [Fresa1](https://www.youtube.com/watch?v=hmq8p7nuhyw)
 - [Fresa2](https://youtu.be/t2wNWmZSoyo)
+- [Fresa3](https://www.youtube.com/watch?v=EJ6JlpY4kTc)
+
 ### Verduras:
 
 ### Otros:
