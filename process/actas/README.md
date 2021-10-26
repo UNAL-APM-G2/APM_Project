@@ -29,7 +29,7 @@ robotización.
 - [x] Tarea 1: hacer push al repositorio  
 - [x] Tarea 2: cada participante debe escoger un producto y presentar un diagrama con todas las etapas debe proponer cuales 3 pueden ser automatizadas y aquella que sea robotizada.
 
-
+## Pendiente por revisión
 
 
 # Acta 2  fecha: 2021-10-10
