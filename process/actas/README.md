@@ -31,6 +31,8 @@ robotización.
 
 ## Pendiente por revisión
 
+## Pendiente realización de WIKI
+
 
 # Acta 2  fecha: 2021-10-10
 
