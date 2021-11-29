@@ -1,23 +1,23 @@
-## Acta 1  fecha: 2021-10-8
+## Acta 1 - Fecha: 2021-10-8
 
 ## Objetivos
-- discutir sobre creación de  proyecto de github
-- revisar los requisitos del proyecto 
-- definir candidatos de productos
+- Discutir sobre creación de  proyecto de github
+- Revisar los requisitos del proyecto 
+- Definir candidatos de productos
   - [Empafrut](https://www.youtube.com/watch?v=mQb3wL3IhI8)
   - [papas lay](https://youtu.be/L6IYy95ODDU)
   - [limones](https://youtu.be/6BymoSoA4JE)
-- definir franjas horario de trabajo semanal
+- Definir franjas horario de trabajo semanal
 - Viernes a las 4
   
 ## Discusión 
 
-utilización de la herramienta de issues dentro de github para la asignación y verificación de cumplimento de tareas 
+Utilización de la herramienta de issues dentro de github para la asignación y verificación de cumplimento de tareas 
 
-sobre el manejo del repositorio convenciones (idioma a utilizar donde ingles nombre de archivos y carpetas español para el contenido)
+Sobre el manejo del repositorio convenciones (idioma a utilizar donde ingles nombre de archivos y carpetas español para el contenido)
 
-- lista de 5 productos a los que sea factible aplicar el proceso de manufactura, los profesores definen dos de ellos que constituirán el objeto del proyecto del equipo. Considerar diferencias no triviales en aspectos como número de elementos por empaque, tamaño, forma. Para el manejo y empaque de los dos productos deben utilizar una única línea de proceso.
-- identificar todas las etapas relevantes desde la llegada del
+- Lista de 5 productos a los que sea factible aplicar el proceso de manufactura, los profesores definen dos de ellos que constituirán el objeto del proyecto del equipo. Considerar diferencias no triviales en aspectos como número de elementos por empaque, tamaño, forma. Para el manejo y empaque de los dos productos deben utilizar una única línea de proceso.
+- Identificar todas las etapas relevantes desde la llegada del
 producto a la planta hasta su salida empacado. Selección de 3 etapas clave, que sean automatizables, una de ellas con
 robotización.
 
